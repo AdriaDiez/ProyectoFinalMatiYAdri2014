@@ -16,5 +16,10 @@ namespace ProyectoFinal2014
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            Close();
+        }
     }
 }
